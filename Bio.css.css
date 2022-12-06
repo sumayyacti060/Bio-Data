@@ -1,0 +1,55 @@
+body
+{
+    background-color:rgba(205, 247, 239, 0.651);
+    color: blueviolet;
+    width: 1000px;
+}
+img{
+    float: right;
+    width: 10%;
+    height:25%;
+   
+}
+
+
+h1{
+    text-align:center;
+}
+h2{
+    color: rgb(5, 148, 173);
+    background-color: #fbb5b583;
+}
+li{
+    color:black;
+    font-size: 16;
+}
+table,th,td{
+     width: 800px; 
+     color: black;
+     font-size: 16;
+     margin: left;
+     padding: 5px;
+     text-align: center;
+    border: 2px;
+}
+p{
+    color: black;
+    font-size: 16;
+}
+th{
+    background-color: aquamarine;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
