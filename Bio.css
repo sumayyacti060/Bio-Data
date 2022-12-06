@@ -1,13 +1,13 @@
 body
 {
-    background-color:rgba(205, 247, 239, 0.651);
-    color: blueviolet;
-    width: 1000px;
+    background-color:rgba(221, 251, 246, 0.568);
+    color:black;
+    font-size:16;
 }
 img{
-    float: right;
     width: 10%;
-    height:25%;
+    height:30%;
+    float: right;
 }
 .content{
     max-width: 1000px;
@@ -16,31 +16,25 @@ img{
 
 
 h1{
+    color: blueviolet;
+    text-decoration: underline solid rgb(215, 216, 217);
     text-align:center;
 }
 h2{
     color: rgb(5, 148, 173);
-    background-color: #fbb5b583;
+    background-color: #e711b54f;
 }
-li{
-    color:black;
-    font-size: 16;
-}
+
 table,th,td{
-     width: 800px; 
-     color: black;
-     font-size: 16;
+     width: 800px;  
      margin: left;
      padding: 5px;
      text-align: center;
     border: 2px;
-}
-p{
-    color: black;
-    font-size: 16;
-}
+}    
+
 th{
-    background-color: aquamarine;
+    background-color: rgba(128, 132, 131, 0.344);
 }
 
 
