@@ -8,7 +8,10 @@ img{
     float: right;
     width: 10%;
     height:25%;
-   
+}
+.content{
+    max-width: 1000px;
+    margin: auto;
 }
 
 
